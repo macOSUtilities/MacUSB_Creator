@@ -1,0 +1,552 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		EBA031582D44712A00B50678 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EBA0313E2D44712800B50678 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EBA031452D44712800B50678;
+			remoteInfo = "MacUSB Creator";
+		};
+		EBA031622D44712A00B50678 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EBA0313E2D44712800B50678 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EBA031452D44712800B50678;
+			remoteInfo = "MacUSB Creator";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EBA031462D44712800B50678 /* MacUSB Creator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MacUSB Creator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EBA031572D44712A00B50678 /* MacUSB CreatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MacUSB CreatorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EBA031612D44712A00B50678 /* MacUSB CreatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MacUSB CreatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		EBA031482D44712800B50678 /* MacUSB Creator */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "MacUSB Creator";
+			sourceTree = "<group>";
+		};
+		EBA0315A2D44712A00B50678 /* MacUSB CreatorTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "MacUSB CreatorTests";
+			sourceTree = "<group>";
+		};
+		EBA031642D44712A00B50678 /* MacUSB CreatorUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "MacUSB CreatorUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EBA031432D44712800B50678 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EBA031542D44712A00B50678 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EBA0315E2D44712A00B50678 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EBA0313D2D44712800B50678 = {
+			isa = PBXGroup;
+			children = (
+				EBA031482D44712800B50678 /* MacUSB Creator */,
+				EBA0315A2D44712A00B50678 /* MacUSB CreatorTests */,
+				EBA031642D44712A00B50678 /* MacUSB CreatorUITests */,
+				EBA031472D44712800B50678 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EBA031472D44712800B50678 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EBA031462D44712800B50678 /* MacUSB Creator.app */,
+				EBA031572D44712A00B50678 /* MacUSB CreatorTests.xctest */,
+				EBA031612D44712A00B50678 /* MacUSB CreatorUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EBA031452D44712800B50678 /* MacUSB Creator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EBA0316B2D44712A00B50678 /* Build configuration list for PBXNativeTarget "MacUSB Creator" */;
+			buildPhases = (
+				EBA031422D44712800B50678 /* Sources */,
+				EBA031432D44712800B50678 /* Frameworks */,
+				EBA031442D44712800B50678 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				EBA031482D44712800B50678 /* MacUSB Creator */,
+			);
+			name = "MacUSB Creator";
+			packageProductDependencies = (
+			);
+			productName = "MacUSB Creator";
+			productReference = EBA031462D44712800B50678 /* MacUSB Creator.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EBA031562D44712A00B50678 /* MacUSB CreatorTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EBA0316E2D44712A00B50678 /* Build configuration list for PBXNativeTarget "MacUSB CreatorTests" */;
+			buildPhases = (
+				EBA031532D44712A00B50678 /* Sources */,
+				EBA031542D44712A00B50678 /* Frameworks */,
+				EBA031552D44712A00B50678 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EBA031592D44712A00B50678 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				EBA0315A2D44712A00B50678 /* MacUSB CreatorTests */,
+			);
+			name = "MacUSB CreatorTests";
+			packageProductDependencies = (
+			);
+			productName = "MacUSB CreatorTests";
+			productReference = EBA031572D44712A00B50678 /* MacUSB CreatorTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		EBA031602D44712A00B50678 /* MacUSB CreatorUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EBA031712D44712A00B50678 /* Build configuration list for PBXNativeTarget "MacUSB CreatorUITests" */;
+			buildPhases = (
+				EBA0315D2D44712A00B50678 /* Sources */,
+				EBA0315E2D44712A00B50678 /* Frameworks */,
+				EBA0315F2D44712A00B50678 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EBA031632D44712A00B50678 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				EBA031642D44712A00B50678 /* MacUSB CreatorUITests */,
+			);
+			name = "MacUSB CreatorUITests";
+			packageProductDependencies = (
+			);
+			productName = "MacUSB CreatorUITests";
+			productReference = EBA031612D44712A00B50678 /* MacUSB CreatorUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EBA0313E2D44712800B50678 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					EBA031452D44712800B50678 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					EBA031562D44712A00B50678 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = EBA031452D44712800B50678;
+					};
+					EBA031602D44712A00B50678 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = EBA031452D44712800B50678;
+					};
+				};
+			};
+			buildConfigurationList = EBA031412D44712800B50678 /* Build configuration list for PBXProject "MacUSB Creator" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EBA0313D2D44712800B50678;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = EBA031472D44712800B50678 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EBA031452D44712800B50678 /* MacUSB Creator */,
+				EBA031562D44712A00B50678 /* MacUSB CreatorTests */,
+				EBA031602D44712A00B50678 /* MacUSB CreatorUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EBA031442D44712800B50678 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EBA031552D44712A00B50678 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EBA0315F2D44712A00B50678 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EBA031422D44712800B50678 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EBA031532D44712A00B50678 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EBA0315D2D44712A00B50678 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EBA031592D44712A00B50678 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EBA031452D44712800B50678 /* MacUSB Creator */;
+			targetProxy = EBA031582D44712A00B50678 /* PBXContainerItemProxy */;
+		};
+		EBA031632D44712A00B50678 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EBA031452D44712800B50678 /* MacUSB Creator */;
+			targetProxy = EBA031622D44712A00B50678 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		EBA031692D44712A00B50678 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EBA0316A2D44712A00B50678 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		EBA0316C2D44712A00B50678 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "MacUSB Creator/MacUSB_Creator.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MacUSB Creator/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "MacUSB-Creator-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "MacUSB Creator";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 11.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.naazimco.macusbcreator;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		EBA0316D2D44712A00B50678 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "MacUSB Creator/MacUSB_Creator.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MacUSB Creator/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "MacUSB-Creator-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "MacUSB Creator";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 11.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.naazimco.macusbcreator;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		EBA0316F2D44712A00B50678 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "naazimco.MacUSB-CreatorTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MacUSB Creator.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MacUSB Creator";
+			};
+			name = Debug;
+		};
+		EBA031702D44712A00B50678 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "naazimco.MacUSB-CreatorTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MacUSB Creator.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MacUSB Creator";
+			};
+			name = Release;
+		};
+		EBA031722D44712A00B50678 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "naazimco.MacUSB-CreatorUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "MacUSB Creator";
+			};
+			name = Debug;
+		};
+		EBA031732D44712A00B50678 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "naazimco.MacUSB-CreatorUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "MacUSB Creator";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EBA031412D44712800B50678 /* Build configuration list for PBXProject "MacUSB Creator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EBA031692D44712A00B50678 /* Debug */,
+				EBA0316A2D44712A00B50678 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EBA0316B2D44712A00B50678 /* Build configuration list for PBXNativeTarget "MacUSB Creator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EBA0316C2D44712A00B50678 /* Debug */,
+				EBA0316D2D44712A00B50678 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EBA0316E2D44712A00B50678 /* Build configuration list for PBXNativeTarget "MacUSB CreatorTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EBA0316F2D44712A00B50678 /* Debug */,
+				EBA031702D44712A00B50678 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EBA031712D44712A00B50678 /* Build configuration list for PBXNativeTarget "MacUSB CreatorUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EBA031722D44712A00B50678 /* Debug */,
+				EBA031732D44712A00B50678 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EBA0313E2D44712800B50678 /* Project object */;
+}
