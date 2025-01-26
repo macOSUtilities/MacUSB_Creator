@@ -37,6 +37,12 @@
 ### Unsigned App Note
 This app is **unsigned** and may trigger macOS Gatekeeper. Follow the instructions above to bypass Gatekeeper and run the app.
 
+## Screenshots
+![Main window](https://github.com/user-attachments/assets/bfd49d9b-57bd-4607-addd-0dfbf8774147)
+![Command output window](https://github.com/user-attachments/assets/974d17d4-968f-44ab-866b-5f3df655d6a4)
+![About window](https://github.com/user-attachments/assets/4c0b223c-5ddb-48b0-82f4-3e02c743d7f9)
+
+
 ## Build Details
 - **Language:** Swift
 - **Framework:** SwiftUI
