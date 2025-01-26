@@ -38,9 +38,9 @@
 This app is **unsigned** and may trigger macOS Gatekeeper. Follow the instructions above to bypass Gatekeeper and run the app.
 
 ## Screenshots
-![Main window](https://github.com/user-attachments/assets/bfd49d9b-57bd-4607-addd-0dfbf8774147)
-![Command output window](https://github.com/user-attachments/assets/974d17d4-968f-44ab-866b-5f3df655d6a4)
-![About window](https://github.com/user-attachments/assets/4c0b223c-5ddb-48b0-82f4-3e02c743d7f9)
+![Main window](https://github.com/user-attachments/assets/3d86c7de-49de-4f5e-bf1f-58ca0596fe23)
+![Command output window](https://github.com/user-attachments/assets/7691bc1d-1f95-4a85-9316-0052a1ea6af8)
+![About window](https://github.com/user-attachments/assets/db68479d-964e-4d9e-99f0-d5a97a3ad9d2)
 
 
 ## Build Details
