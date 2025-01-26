@@ -1,7 +1,7 @@
 ![musbheader](https://github.com/user-attachments/assets/198c0618-c404-41da-a921-e71792a103ef)
 
 
-**MacUSB Creator** is a simple, intuitive macOS application for creating bootable macOS installer USB drives. It supports macOS **11.5 (Big Sur)** and higher, with future support for macOS **10.15 (Catalina)** coming soon.
+**MacUSB Creator** is a simple, intuitive macOS application for creating bootable macOS installer USB drives.
 
 ## Features
 - **Create Bootable Installers:** Quickly create bootable macOS installers for supported macOS versions.
@@ -19,7 +19,7 @@
 - Integrated macOS installer downloader.
 
 ## How to Use
-1. Download the latest **MacUSB Creator** DMG from Releases
+1. Download the latest [**MacUSB Creator** DMG from Releases](https://github.com/macOSUtilities/MacUSB_Creator/releases/download/v1.0/MacUSB.Creator.1.0.dmg)
 2. Drag the .app to Downloads
 3. If your Mac prevents the app from opening due to it being unsigned:
    - **macOS Sequoia or higher**:
